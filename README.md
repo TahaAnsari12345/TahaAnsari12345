@@ -129,9 +129,6 @@ An AI-powered assistive device built for visually impaired users, combining comp
   - Audio feedback through text-to-speech for hands-free assistance
   - Battery-powered, standalone Raspberry Pi hardware setup
   - Contributed to both the software (CV/TTS) and hardware integration
-
-🔗 GitHub Repository — Add Link
-
 ---
 
 ### 💼 Experience
