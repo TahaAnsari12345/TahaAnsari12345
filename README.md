@@ -17,7 +17,6 @@ I'm a Computer Science (AI & ML) engineer from Mumbai. I like building complete 
 | 📍 **Location** | Mumbai, India |
 | 🎓 **Education** | B.E. CSE (AI & ML), LTCE Navi Mumbai · CGPI 9.5/10 |
 | 💼 **Looking for** | Web Developer / Software Engineer roles |
-| 🔭 **Learning** | RAG pipelines, vector databases (Qdrant), NLP |
 
 ---
 
@@ -25,37 +24,90 @@ I'm a Computer Science (AI & ML) engineer from Mumbai. I like building complete 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-**🛒 Shopzi** · Multi-seller marketplace<br/>
-Seller dashboard, role-based access, Stripe checkout, stock validation, reviews and image uploads.<br/><br/>
-`React` `Node.js` `PostgreSQL` `Clerk` `Stripe`<br/><br/>
-[Live Demo](https://shopzi-nine.vercel.app/) · [Backend](https://temporary-repository001-backend.onrender.com)
+<h3>🛒 Shopzi</h3>
+<sub><b>Multi-Seller E-Commerce Marketplace</b></sub>
+<br/><br/>
+<a href="https://shopzi-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><a href="https://temporary-repository001-backend.onrender.com"><img src="https://img.shields.io/badge/Backend_API-0f172a?style=for-the-badge&logo=render&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
-**🤖 AI SaaS Platform** · AI tools suite<br/>
-Content generation, resume review and career roadmaps, with JWT auth and a REST API.<br/><br/>
-`React` `Node.js` `PostgreSQL` `Tailwind` `JWT`<br/><br/>
-[Live Demo](https://quick-ai-mocha-seven.vercel.app/) · [Backend](https://aiverse-hpt6.onrender.com/)
+Full-stack marketplace where multiple sellers list products and buyers order with secure online payments.
+<ul>
+  <li>Seller dashboard with product and order management</li>
+  <li>Buyer/seller role-based authorization with protected routes</li>
+  <li>Product search, filters, cart, Stripe Checkout and stock validation</li>
+  <li>Product reviews and image uploads via Cloudinary</li>
+</ul>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-**📋 TaskForge** · Team task manager<br/>
-Kanban tracking, project dashboards, Admin/Member permissions and secure REST APIs.<br/><br/>
-`React` `Node.js` `PostgreSQL` `JWT` `bcrypt`<br/><br/>
-[Live Demo](https://taskforge-gules.vercel.app/) · [Backend](https://taskforge-krwe.onrender.com/api/)
+<h3>🤖 AI SaaS Platform</h3>
+<sub><b>AI-Powered Web Application</b></sub>
+<br/><br/>
+<a href="https://quick-ai-mocha-seven.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><a href="https://aiverse-hpt6.onrender.com/"><img src="https://img.shields.io/badge/Backend_API-0f172a?style=for-the-badge&logo=render&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
-**👓 Smart Glasses Vision** · Assistive device<br/>
-Real-time object detection with spoken audio feedback for visually impaired users, on a Raspberry Pi 4.<br/><br/>
-`Python` `OpenCV` `Raspberry Pi` `TTS`
+Secure SaaS platform that brings content generation, resume review and career guidance tools into one app.
+<ul>
+  <li>AI content generation and data analysis tools</li>
+  <li>AI resume review and personalised career roadmaps</li>
+  <li>JWT authentication with a RESTful API architecture</li>
+  <li>Fully responsive interface</li>
+</ul>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+
+<h3>📋 TaskForge</h3>
+<sub><b>Team Task Management App</b></sub>
+<br/><br/>
+<a href="https://taskforge-gules.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/><a href="https://taskforge-krwe.onrender.com/api/"><img src="https://img.shields.io/badge/Backend_API-0f172a?style=for-the-badge&logo=render&logoColor=white"/></a>
+
+</td>
+<td width="70%" valign="top">
+
+Project and team management app with Kanban-style tracking and per-project dashboards.
+<ul>
+  <li>Project, team and member management</li>
+  <li>Admin/Member role-based access control</li>
+  <li>JWT authentication with bcrypt password hashing</li>
+  <li>Protected routes and secure REST APIs</li>
+</ul>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/bcrypt-555555?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top">
+
+<h3>👓 Smart Glasses Vision</h3>
+<sub><b>AI-Powered Assistive Device</b></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Hardware_+_AI-2563eb?style=flat-square"/><br/><sub>College project</sub>
+
+</td>
+<td width="70%" valign="top">
+
+Assistive device for visually impaired users that detects objects in real time and speaks them out.
+<ul>
+  <li>Real-time object detection using camera and OpenCV</li>
+  <li>Hands-free audio feedback through text-to-speech</li>
+  <li>Battery-powered standalone Raspberry Pi 4 setup</li>
+  <li>Worked on both software (CV/TTS) and hardware integration</li>
+</ul>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 
 </td>
 </tr>
@@ -93,8 +145,10 @@ Real-time object detection with spoken audio feedback for visually impaired user
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TahaAnsari12345&show_icons=true&theme=github_dark&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaAnsari12345&layout=compact&theme=github_dark&hide_border=true&title_color=2563eb" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details"/>
+  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
 </div>
 
 ---
