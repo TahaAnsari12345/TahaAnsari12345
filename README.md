@@ -1,152 +1,110 @@
-<h1 align="center">Hi 👋, I'm Taha Ansari</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:2563eb&height=150&section=header&text=Taha%20Ansari&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Taha Ansari"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Real-World+Web+Apps;Open+to+Opportunities" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(React+%26+Node.js);AI%2FML+Engineer+(NLP+%26+RAG);Turning+ideas+into+deployed+products;Open+to+Software+Engineer+roles" alt="Typing animation"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-8b5cf6?style=flat-square&labelColor=0a0c12" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-39ff7a?style=flat-square&labelColor=0a0c12" />
-</p>
+<br/>
 
-<p align="center">
-  B.E. in Computer Science (AI &amp; ML). I build full-stack web apps with authentication, payments and databases, and add AI features like NLP and RAG.
-</p>
+## 👨‍💻 About Me
 
----
+I'm a Computer Science (AI & ML) engineer from Mumbai. I like building complete products: clean React frontends, secure Node.js APIs, PostgreSQL databases, and AI features on top.
 
-## 🚀 Featured Projects
-
-### 🛒 Shopzi — Multi-Seller E-Commerce Marketplace
-> **Stack:** React · Node.js · Express.js · PostgreSQL · Clerk · Stripe · Cloudinary
-
-🔗 [Live Demo](https://shopzi-nine.vercel.app/) · [Backend](https://temporary-repository001-backend.onrender.com)
-
-- Multi-seller marketplace with a seller dashboard
-- Buyer/seller role-based authorization and protected routes
-- Stripe Checkout, stock validation, product reviews and image uploads
+| | |
+|---|---|
+| 📍 **Location** | Mumbai, India |
+| 🎓 **Education** | B.E. CSE (AI & ML), LTCE Navi Mumbai · CGPI 9.5/10 |
+| 💼 **Looking for** | Web Developer / Software Engineer roles |
+| 🔭 **Learning** | RAG pipelines, vector databases (Qdrant), NLP |
 
 ---
 
-### 🤖 AI SaaS Platform
-> **Stack:** React · Node.js · Express.js · PostgreSQL · TailwindCSS · JWT
+## 🚀 Projects
 
-🔗 [Live Demo](https://quick-ai-mocha-seven.vercel.app/) · [Backend](https://aiverse-hpt6.onrender.com/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- AI content generation, resume review and career roadmaps
-- Secure JWT authentication with a RESTful API
-- Fully responsive UI
+**🛒 Shopzi** · Multi-seller marketplace<br/>
+Seller dashboard, role-based access, Stripe checkout, stock validation, reviews and image uploads.<br/><br/>
+`React` `Node.js` `PostgreSQL` `Clerk` `Stripe`<br/><br/>
+[Live Demo](https://shopzi-nine.vercel.app/) · [Backend](https://temporary-repository001-backend.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI SaaS Platform** · AI tools suite<br/>
+Content generation, resume review and career roadmaps, with JWT auth and a REST API.<br/><br/>
+`React` `Node.js` `PostgreSQL` `Tailwind` `JWT`<br/><br/>
+[Live Demo](https://quick-ai-mocha-seven.vercel.app/) · [Backend](https://aiverse-hpt6.onrender.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 TaskForge** · Team task manager<br/>
+Kanban tracking, project dashboards, Admin/Member permissions and secure REST APIs.<br/><br/>
+`React` `Node.js` `PostgreSQL` `JWT` `bcrypt`<br/><br/>
+[Live Demo](https://taskforge-gules.vercel.app/) · [Backend](https://taskforge-krwe.onrender.com/api/)
+
+</td>
+<td width="50%" valign="top">
+
+**👓 Smart Glasses Vision** · Assistive device<br/>
+Real-time object detection with spoken audio feedback for visually impaired users, on a Raspberry Pi 4.<br/><br/>
+`Python` `OpenCV` `Raspberry Pi` `TTS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📋 TaskForge — Team Task Management
-> **Stack:** React · Node.js · Express.js · PostgreSQL · JWT · bcrypt
+## 🧰 Skills
 
-🔗 [Live Demo](https://taskforge-gules.vercel.app/) · [Backend](https://taskforge-krwe.onrender.com/api/)
+<div align="center">
 
-- Kanban-style task tracking with project dashboards
-- Admin/Member role-based access control
-- Secure REST APIs with protected routes
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nodejs,express,tailwind,postgres,mysql,prisma,git,github,vscode,postman,vercel,jupyter&perline=9" alt="Skills"/>
 
----
+</div>
 
-### 👓 Smart Glasses Vision — Assistive Device
-> **Stack:** Python · OpenCV · Raspberry Pi 4 · Text-to-Speech
-
-- Real-time object detection for visually impaired users
-- Audio feedback through text-to-speech
-- Worked on both software (CV/TTS) and hardware integration
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🧰 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+**AI / ML:** Machine Learning · NLP · RAG · Qdrant · NumPy · Pandas  
+**Auth & Services:** JWT · Clerk · Stripe · Cloudinary  
+**Deployment:** Vercel · Render · Neon
 
 ---
 
 ## 💼 Experience
 
-**Front-End Web Developer** — SkillCraft Technology *(Oct 2024 – Nov 2024)*
-- Built responsive, component-based interfaces with HTML, CSS, JavaScript and React
-- Worked with the UI/UX team in an Agile setup
+- **Front-End Web Developer, SkillCraft Technology** (Oct – Nov 2024): built responsive React interfaces and worked with the UI/UX team in Agile.
+- **Machine Learning Intern, IBM SkillsBuild** (Nov – Dec 2024): data preprocessing and supervised learning models on real datasets.
 
-**Machine Learning Intern** — IBM SkillsBuild *(Nov 2024 – Dec 2024)*
-- Applied ML concepts to real datasets: preprocessing, predictive models, supervised learning
+## 🏆 Achievements
 
----
-
-## 🎓 Education & Achievements
-
-**Lokmanya Tilak College of Engineering, Navi Mumbai**
-B.E. in Computer Science (AI & ML) · CGPI 9.5 / 10 · 2022 – 2026
-
-- 🥇 1st Rank in college: CGPA 9.85 (2nd year), 9.75 (3rd year)
-- 🏅 Team leader, Smart India Hackathon 2024: won the internal round and was selected for the national level
-- 📜 Certifications: IBM SkillsBuild (Data Analytics), YBI Foundation (AI & Data Skills), TalentBattle (Python)
+- 🥇 College 1st Rank: CGPA 9.85 (2nd year), 9.75 (3rd year)
+- 🏅 Smart India Hackathon 2024: team leader, selected for the national level
+- 📜 IBM SkillsBuild (Data Analytics) · YBI Foundation (AI & Data) · TalentBattle (Python)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaAnsari12345&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=TahaAnsari12345&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaAnsari12345&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TahaAnsari12345&show_icons=true&theme=github_dark&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaAnsari12345&layout=compact&theme=github_dark&hide_border=true&title_color=2563eb" alt="Top languages"/>
+</div>
 
 ---
 
-## 🌐 Connect
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/TahaAnsari12345">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/taha-ansari-8bb95326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:tahaltcollege@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/taha-ansari-8bb95326"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tahaltcollege@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/TahaAnsari12345"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:2563eb&height=80&section=footer" width="100%" alt=""/>
