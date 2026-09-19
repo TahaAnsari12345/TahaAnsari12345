@@ -117,15 +117,16 @@ Assistive device for visually impaired users that detects objects in real time a
 
 ## 🧰 Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nodejs,express,tailwind,postgres,mysql,prisma,git,github,vscode,postman,vercel,jupyter&perline=9" alt="Skills"/>
-
-</div>
-
-**AI / ML:** Machine Learning · NLP · RAG · Qdrant · NumPy · Pandas  
-**Auth & Services:** JWT · Clerk · Stripe · Cloudinary  
-**Deployment:** Vercel · Render · Neon
+| Category | Technologies |
+|---|---|
+| **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Responsive_Design-2563eb?style=flat-square"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/bcrypt-555555?style=flat-square"/> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> |
+| **AI / ML** | <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> |
+| **Auth & Services** | <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/> |
+| **Deployment** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/> <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black"/> |
 
 ---
 
@@ -145,10 +146,10 @@ Assistive device for visually impaired users that detects objects in real time a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details"/>
-  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats"/>
-  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
-  <img src="https://raw.githubusercontent.com/TahaAnsari12345/TahaAnsari12345/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahaAnsari12345&theme=github_dark" width="49%" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahaAnsari12345&theme=github_dark" width="49%" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahaAnsari12345&theme=github_dark" width="49%" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahaAnsari12345&theme=github_dark" width="49%" alt="Most used languages"/>
 </div>
 
 ---
